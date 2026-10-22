@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://recrutement-commerciaux.ubepro.com/</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://recrutement-commerciaux.ubepro.com/img/hero-bg.webp</image:loc>
+      <image:title>Recrutement de commerciaux et directeurs commerciaux B2B</image:title>
+      <image:caption>Chasse de tête de commerciaux aux performances vérifiées</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://recrutement-commerciaux.ubepro.com/img/method.webp</image:loc>
+      <image:title>Méthode de qualification et contrôle de références commerciales</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://recrutement-commerciaux.ubepro.com/img/problem.webp</image:loc>
+      <image:title>Recrutement commercial et sécurisation de la période d'essai</image:title>
+    </image:image>
+  </url>
+</urlset>
